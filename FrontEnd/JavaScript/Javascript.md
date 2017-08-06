@@ -1,6 +1,6 @@
-#Javascript总结
+# Javascript总结
 
-###其他人总结的思维导图
+### 其他人总结的思维导图
 
 [DOM对象](https://github.com/Houserqu/MySummary/blob/master/FrontEnd/JavaScript/Dom%E5%AF%B9%E8%B1%A1.jpg)
 
@@ -26,5 +26,5 @@
 
 [运算符](https://github.com/Houserqu/MySummary/blob/master/FrontEnd/JavaScript/js%E8%BF%90%E7%AE%97%E7%AC%A6.gif)
 
-###function return function
+### function return function
 - 返回的function里的变量的上下文是原父函数的上下文
